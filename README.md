@@ -1,5 +1,16 @@
 This repo is used for Wild Code School Express quests
 
+## pour tester la fonctionnalité :
+
+http://localhost:3000/api/login
+
+avec :
+
+{
+        "email": "aaaa@bbbb.fr",
+        "password":"yourpassword"
+    }
+
 # Setup
 
 ## Install dependencies
